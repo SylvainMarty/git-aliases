@@ -8,7 +8,8 @@ Run the script :
 bash setup-aliases.sh
 ```
 
-That's all you need !
+That's all you need to do !
+
 
 ## Content
 
@@ -21,11 +22,17 @@ That's all you need !
 - `git graph` : display a simple graph from the Git logs
 - `git graph2` : display a more advanced graph from the Git logs with descriptions
 
+
 ## Screenshots
 
 ### `git graph`
 
+![git graph](git-graph.png)
+
 ### `git graph2`
+
+![git graph2](git-graph2.png)
+
 
 ## Special thanks
  
