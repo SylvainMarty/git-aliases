@@ -37,3 +37,8 @@ That's all you need to do !
 ## Special thanks
  
 Thanks to this [Stack Overflow thread](http://stackoverflow.com/a/9074343) which give some helpful aliases to beautify logs in Git (graph aliases by example) !
+
+
+## Contributing
+
+Do not hesitate to suggest other aliases that you find helpful in the [issues section](https://github.com/SylvainMarty/git-aliases/issues) !
